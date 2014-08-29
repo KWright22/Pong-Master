@@ -1,0 +1,41 @@
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\ApplicationIcon.png
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Background.png
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\pongMaster.dll
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\pongMaster.pdb
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\AppManifest.xaml
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\pongMaster.xap
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\App.g.i.cs
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\MainPage.g.i.cs
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\newGamePage.g.i.cs
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\pongMaster.g.resources
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\pongMaster.dll
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\pongMaster.pdb
+c:\users\kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\obj\Debug\XapCacheFile.xml
+C:\Users\Kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Kirstin\documents\visual studio 2010\Projects\pongMaster\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\ApplicationIcon.png
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Background.png
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\pongMaster.dll
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\pongMaster.pdb
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\AppManifest.xaml
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\pongMaster.xap
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Kirstin\Dropbox\pongMaster\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\App.g.i.cs
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\MainPage.g.i.cs
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\newGamePage.g.i.cs
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\pongMaster.g.resources
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\pongMaster.dll
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\pongMaster.pdb
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\XapCacheFile.xml
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\addPlayerPage.g.i.cs
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\gamePage.g.i.cs
+C:\Users\Kirstin\Dropbox\pongMaster\obj\Debug\previousGamesPage.g.i.cs
